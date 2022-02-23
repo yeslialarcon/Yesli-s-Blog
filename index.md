@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/yeslialarcon/Yesli-s-Blog/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### **Markdown** Biografia de Felipe
+### Biografia de Felipe
 
 TODO: add picture of Felipe.
 
